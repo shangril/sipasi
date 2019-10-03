@@ -1,0 +1,39 @@
+= Things to do for me =
+The good part of the life
+== Receive the package and unpack it ==
+And immediately check if at first sight everything looks right... Beware this time when opening the parcel not to damage anything. 
+=== Later: Test this new hardware ===
+Assemble it and plug in it and be carreful when testing SWR
+== Use my booster in the videogame ==
+Be sure that nothing will prevent you from playing while the booster is active
+= Things to do for the household = 
+== Wash the dishes ==
+Well, it sums up well...
+== Clean shower ==
+also check if there's still plenty scouring cream
+== Put in order the bedroom a bit==
+And especially all these cardboard boxes
+= People to call =
+== Friends ==
+=== Think about calling Daniel ===
+Just to ask what's up. Maybe this weekend ?
+== Family ==
+=== Call sister for the birthday ===
+ASAP
+= Volunteering =
+All various volunteer projects should go here
+== The Ostrich ==
+=== Try to write one or two more notes for the monthly bulletin ===
+Especially for the 1-track one. I told I would take care of this.  
+=== Write about the OUAB for the monthly bulletin ===
+Mandatory 
+==== Maybe, re-listen to the work ====
+...Write down the most moving pieces' titles ?
+== Sipasi ==
+=== Code the engine ===
+==== Prepare template files ====
+footer, footer title, title, short description, long description, content, changelog
+==== Parse ====
+content
+=== commit the initial commit ===
+= And do the laundry ! =
